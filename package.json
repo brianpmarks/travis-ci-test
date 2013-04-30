@@ -1,0 +1,25 @@
+{
+  "name": "travis-ci-test",
+  "version": "0.0.1",
+  "author": "Brian Marks <brianpmarks@gmail.com>",
+  "description": "Testing Travis-CI",
+  "scripts": {
+    "test": "node_modules/.bin/mocha --timeout 5000 --require should -R spec --recursive test/*.js"
+  },
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/brianpmarks/travis-ci-test.gif"
+  },
+  "dependencies": {
+    "express": "3.1.x"
+  },
+  "devDependencies": {
+    "mocha": "1.9.x",
+    "should": "1.2.x",
+    "superagent": "0.14.x"
+  },
+  "engines": {
+    "node": ">=0.6"
+  }
+}
