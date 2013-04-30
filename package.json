@@ -9,7 +9,7 @@
   "main": "server.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/brianpmarks/travis-ci-test.gif"
+    "url": "git://github.com/brianpmarks/travis-ci-test.git"
   },
   "dependencies": {
     "express": "3.1.x"
