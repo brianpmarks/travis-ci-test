@@ -4,4 +4,4 @@ node_js:
   - "0.8"
   - "0.6"
 notifications:
-  - campfire: coursefork:f4b060541a6a9e85a6198053080210d69f11bf31@561315
+  campfire: coursefork:f4b060541a6a9e85a6198053080210d69f11bf31@561315
