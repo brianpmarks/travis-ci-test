@@ -1,7 +1,8 @@
+---
 language: node_js
 node_js:
-  - "0.10"
-  - "0.8"
-  - "0.6"
+- '0.10'
+- '0.8'
 notifications:
-  campfire: coursefork:f4b060541a6a9e85a6198053080210d69f11bf31@561315
+  campfire:
+    - secure: 'fM8Rp08B+piNE9cMVNiwTKavoZRMb6ioRumUUI62nQY9jtgP1AzBuVVPQAxDjuoALaxvwEqOWciam9dAhXaQ1Jwvq9rBEqJTMV2x2RFZy+WVmWT9DUClcepilzvC+txig5vijlMGtLVdDPNNCoR5KROxrtcIb/O0A7gB3s5rM74='
